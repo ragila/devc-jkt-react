@@ -14,7 +14,7 @@ const BlogList = props => {
 
 const styles = {
   Bloglist: {
-    backgroundColor: "#F7F7F7"
+    backgroundColor: "#F7F7F6"
   }
 };
 
